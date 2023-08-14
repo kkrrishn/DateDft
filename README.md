@@ -1,6 +1,6 @@
 # DateDift
 This library is use to get Date difference between two dates. 
-
+[![](https://jitpack.io/v/kkrrishn/DateDft.svg)](https://jitpack.io/#kkrrishn/DateDft)
 How to
 To get a Git project into your build:
 
